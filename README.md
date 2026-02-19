@@ -2,6 +2,10 @@
 
 Domino Score Tracker is a modern Android application designed to simplify scoring for a specific 4-player dominoes variant played "off the spinner." It provides a robust, round-by-round scoring interface, player statistics, and game history, all wrapped in a sleek Material 3 interface.
 
+<div align="center">
+  <img src="docs/screenshots/home_screen.png" alt="Home Screen" width="50%" />
+</div>
+
 ## 🎲 The Game
 
 The game follows a specific 14-round sequence where players score based on the dots remaining in their hand.
